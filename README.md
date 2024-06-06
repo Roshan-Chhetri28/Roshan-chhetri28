@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=terabro&label=Profile%20views&color=0e75b6&style=flat" alt="terabro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roshan-chhetri28&label=Profile%20views&color=0e75b6&style=flat" alt="Roshan" /> </p>
 
 - 🌱 I’m currently learning **React JS**
 
