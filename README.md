@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roshan Chhetri</h1>
-<h3 align="center">A passionate developer who wants to get in field of Data Science</h3>
+<h3 align="center">A passionate developer who deep diving in the field of Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-chhetri28&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-chhetri28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan-chhetri28" alt="roshan-chhetri28" /></a> </p>
 
-- 🔭 I’m currently working on **Cardamom Disease Detection**
+- 🔭 I’m currently working on **Meeting wav-to-seq**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Transformer**
 
 - 💬 Ask me about **Machine Learning and Deep Learning Algorithms**
 
