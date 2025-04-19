@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Meeting wav-to-seq**
 
-- 🌱 I’m currently learning **Transformer**
+- 🌱 I’m currently learning **Langchain**
 
 - 💬 Ask me about **Machine Learning and Deep Learning Algorithms**
 
-- 📫 How to reach me **roshanchhetri931@gmail.com**
+- 📫 How to reach me **<a href="mailto:roshanchhetri931@gmail.com">roshanchhetri931@gmail.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
